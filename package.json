@@ -3,9 +3,9 @@
   "displayName": "UnityBlocks.Idle",
   "version": "0.0.1",
   "unity": "2022.2",
-  "description": "core module",
+  "description": "hybrid/idle module",
   "dependencies": {
-     "unityblocks.core": "https://github.com/vstrucovski/UnityBlocks-Core.git",
+    "unityblocks.core": "https://github.com/vstrucovski/UnityBlocks-Core.git"
   },
   "keywords": [
     "script"
