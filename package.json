@@ -5,7 +5,7 @@
   "unity": "2022.2",
   "description": "hybrid/idle module",
   "dependencies": {
-    "unityblocks.core": "https://github.com/vstrucovski/UnityBlocks-Core.git"
+    "unityblocks.core": "https://github.com/vstrucovski/UnityBlocks-Core.git#0.0.1"
   },
   "keywords": [
     "script"
