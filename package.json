@@ -1,0 +1,19 @@
+{
+  "name": "unityblocks.idle",
+  "displayName": "UnityBlocks.Idle",
+  "version": "0.0.1",
+  "unity": "2022.2",
+  "description": "core module",
+  "dependencies": {
+     "unityblocks.core": "https://github.com/vstrucovski/UnityBlocks-Core.git",
+  },
+  "keywords": [
+    "script"
+  ],
+  "category": "editor extensions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vstrucovski/UnityBlocks-Idle.git"
+  },
+  "type": "library"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "UnityBlocks.Idle",
+    "rootNamespace": "UnityBlocks.Idle",
+    "references": [
+        "GUID:6b0fbfb848c43f04580b16eceba2e578"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
